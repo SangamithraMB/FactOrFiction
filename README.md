@@ -34,5 +34,5 @@ WikiLib Fact or Fiction is an interactive fact-checking game that challenges pla
 
 ### 📌 Future Enhancements
 
-🔹 Add a web-based UI for a more engaging experience.
-🔹 Implement machine learning to improve fake statement generation.
+- 🔹 Add a web-based UI for a more engaging experience.
+- 🔹 Implement machine learning to improve fake statement generation.
